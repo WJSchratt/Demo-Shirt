@@ -1,0 +1,15 @@
+.hey {
+    border-style: solid;
+    height: 100px;
+}
+.ok {
+  height: 100px !important;
+  width:100px;
+}
+
+.img-preview {
+  max-width: 250px !important;
+  max-height: 250px !important;
+  display : inline-block;
+
+}
