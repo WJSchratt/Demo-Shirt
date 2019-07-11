@@ -79,6 +79,7 @@ render() {
                 onStop={this.handleStop}>
               <img className="handle" style={{ width: '300px' }} src={this.state.cropResult} alt="cropped image" />
               </Draggable>
+              <h1 className= "drag" >drag me </h1>
             </div>
         </div>
       </div>
